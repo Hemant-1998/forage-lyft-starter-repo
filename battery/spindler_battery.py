@@ -1,4 +1,4 @@
-from .battery import Battery
+from battery import Battery
 from utils import add_years_to_date
 
 class SpindlerBattery(Battery):
